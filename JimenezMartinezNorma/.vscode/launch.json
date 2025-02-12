@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SumaFuncion",
+            "request": "launch",
+            "mainClass": "SumaFuncion",
+            "projectName": "JimenezMartinezNorma_a00d08a5"
+        },
+        {
+            "type": "java",
+            "name": "DivisionFuncion",
+            "request": "launch",
+            "mainClass": "DivisionFuncion",
+            "projectName": "JimenezMartinezNorma_a00d08a5"
+        },
+        {
+            "type": "java",
+            "name": "ModuloFuncion",
+            "request": "launch",
+            "mainClass": "ModuloFuncion",
+            "projectName": "JimenezMartinezNorma_a00d08a5"
+        },
+        {
+            "type": "java",
+            "name": "MultiplicacionFuncion",
+            "request": "launch",
+            "mainClass": "MultiplicacionFuncion",
+            "projectName": "JimenezMartinezNorma_a00d08a5"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "SumaConFuncion",
+            "request": "launch",
+            "mainClass": "SumaConFuncion",
+            "projectName": "JimenezMartinezNorma_a00d08a5"
+        }
+    ]
+}
